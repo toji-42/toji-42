@@ -22,7 +22,7 @@
 | Catégorie | Compétences |
 | :--- | :--- |
 | **IA & Data** | `Python` `PyTorch` `Hugging Face` `Computer Vision` |
-| **DevOps** | `Docker` `CI/CD` `Bash` `Linux` `SysAdmin` |
+| **DevOps** | `Docker` `CI/CD` `Bash` `Linux`|
 | **Monitoring** | `Prometheus` `Grafana` `ELK` |
 | **Développement** | `React Native` `Node.js` `TypeScript/JavaScript` `C++` `SQL` |
 
